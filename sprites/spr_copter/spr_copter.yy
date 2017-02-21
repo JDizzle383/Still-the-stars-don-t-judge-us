@@ -2,7 +2,7 @@
     "id": "acdeab85-dbe4-4420-b9e3-7b376b7c8489",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_copter_1",
+    "name": "spr_copter",
     "For3D": false,
     "HTile": false,
     "VTile": false,
