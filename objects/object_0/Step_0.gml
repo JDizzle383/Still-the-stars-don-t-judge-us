@@ -35,6 +35,11 @@ switch(facing_dir){
 	{
 		sprite_index = spr_Aish_walk_right;
 		image_xscale = 1;
+		if (mouse_check_button(mb_left))
+		{
+			sprite_index = spr_Aish_hor_swipe;
+			image_xscale = 1;
+		}
 	}
 	break;
 	case 1:
@@ -42,6 +47,11 @@ switch(facing_dir){
 	case 2:
 		sprite_index = spr_Aish_walk_right;
 		image_xscale = -1;
+		if (mouse_check_button(mb_left))
+		{
+			sprite_index = spr_Aish_hor_swipe;
+			image_xscale = -1;
+		}
 	case 3:
 	break;
 }
