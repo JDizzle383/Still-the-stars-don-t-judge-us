@@ -40,6 +40,11 @@ switch(facing_dir){
 			sprite_index = spr_Aish_hor_swipe;
 			image_xscale = 1;
 		}
+		if keyboard_check(ord("E"))
+		{
+		 sprite_index = spr_sheild_out;
+		 image_xscale = 1;
+		}
 	}
 	break;
 	case 1:
@@ -51,6 +56,11 @@ switch(facing_dir){
 		{
 			sprite_index = spr_Aish_hor_swipe;
 			image_xscale = -1;
+		}
+		if keyboard_check(ord("E"))
+		{
+		 sprite_index = spr_sheild_out;
+		 image_xscale = -1;
 		}
 	case 3:
 	break;
