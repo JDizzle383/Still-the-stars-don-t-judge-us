@@ -1,8 +1,8 @@
 {
-    "id": "20c11488-a661-4285-b546-963f934322e9",
+    "id": "29f086cf-84cc-404d-873a-65f8ec882b41",
     "modelName": "GMTileSet",
     "mvc": "1.11",
-    "name": "tileset_0",
+    "name": "YellowLaserTiles_tileset",
     "auto_tile_sets": [
         
     ],
@@ -14,12 +14,12 @@
             
         ]
     },
-    "out_columns": 5,
+    "out_columns": 7,
     "out_tilehborder": 2,
     "out_tilevborder": 2,
-    "spriteId": "801fd760-d526-45b7-8508-304da9676cb9",
-    "sprite_no_export": true,
-    "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
+    "spriteId": "2ab2106d-fc97-47ad-8f41-b7a3ae1b6a13",
+    "sprite_no_export": false,
+    "textureGroupId": "00000000-0000-0000-0000-000000000000",
     "tile_animation": {
         "AnimationCreationOrder": null,
         "FrameData": [
@@ -46,7 +46,28 @@
             20,
             21,
             22,
-            23
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44
         ],
         "SerialiseFrameCount": 1
     },
@@ -54,11 +75,11 @@
         
     ],
     "tile_animation_speed": 15,
-    "tile_count": 24,
-    "tileheight": 128,
+    "tile_count": 45,
+    "tileheight": 64,
     "tilehsep": 0,
     "tilevsep": 0,
-    "tilewidth": 128,
+    "tilewidth": 64,
     "tilexoff": 0,
     "tileyoff": 0
 }
