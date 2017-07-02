@@ -1,19 +1,4 @@
 /// @description Aishwarya movement
-if keyboard_check(vk_shift)
-{
-	spd = 9;
-	image_speed = 1.4;
-}
-else
-{
-	spd = 6;
-	image_speed = 1.2;
-}
-if keyboard_check(vk_nokey)
-{
- hspeed=0;
- vspeed=0;
-}
 facing_dir = round(point_direction(x, y, mouse_x, mouse_y)/90);
 if(facing_dir>3) 
 {
