@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "018db331-f715-476e-8629-0dec1a0a2480",
+            "Value": {
+                "id": "e200b3d5-862c-4e96-a713-cc2bc349d364",
+                "resourcePath": "tilesets\\BlueLaserTiles_tileset\\BlueLaserTiles_tileset.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "048a82c2-bea2-4c0a-a10d-fab547740b6d",
             "Value": {
                 "id": "f51e3c4a-2dc3-4234-b726-f6dd0e8826b9",
@@ -79,6 +87,46 @@
             }
         },
         {
+            "Key": "29f086cf-84cc-404d-873a-65f8ec882b41",
+            "Value": {
+                "id": "a2cea72c-dd11-4e5d-9c87-2781981787d5",
+                "resourcePath": "tilesets\\YellowLaserTiles_tileset\\YellowLaserTiles_tileset.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "2ab2106d-fc97-47ad-8f41-b7a3ae1b6a13",
+            "Value": {
+                "id": "2776a470-6ca4-4518-a95f-dc129d3a153b",
+                "resourcePath": "sprites\\YellowLaserTiles\\YellowLaserTiles.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2ddfac58-5715-4814-8114-68b277ca5e1b",
+            "Value": {
+                "id": "c1fa31e7-e540-4b48-ac07-3ec3add4984e",
+                "resourcePath": "tilesets\\tileset4\\tileset4.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "3192c3ad-291c-4dee-aaf9-07411baca3aa",
+            "Value": {
+                "id": "123a4403-1176-4357-b424-47571dff8ddd",
+                "resourcePath": "sprites\\backgroundImage\\backgroundImage.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "41d61d63-e5f8-40c0-813e-b0116d5cb7eb",
+            "Value": {
+                "id": "4ddd0d74-d9f6-4f3f-a9a6-0489627740cf",
+                "resourcePath": "tilesets\\RedLaserTiles_tileset\\RedLaserTiles_tileset.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "431bb106-19f8-4bf3-b887-5e3c6a320fd8",
             "Value": {
                 "id": "a5ff93a3-f6f2-43f7-8a61-6af6220e3227",
@@ -103,6 +151,30 @@
             }
         },
         {
+            "Key": "585de685-e184-4787-86b1-800fcc176fec",
+            "Value": {
+                "id": "dcf7bb39-5e3d-4ead-b07e-a456938dfe0d",
+                "resourcePath": "views\\585de685-e184-4787-86b1-800fcc176fec.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "685d726e-9086-4eef-a973-d5160709e8e0",
+            "Value": {
+                "id": "5aed980e-8e3d-4e39-884b-8d8118d09aad",
+                "resourcePath": "sprites\\RedLaserTiles\\RedLaserTiles.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6af6eef2-3932-4cb4-a7c1-54ec281e22d8",
+            "Value": {
+                "id": "729dcd1c-b11b-4579-8970-d6c302cf011d",
+                "resourcePath": "sprites\\spr_sheild_hold\\spr_sheild_hold.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "71c10495-e9c3-43b0-bfad-78bffb6f26e9",
             "Value": {
                 "id": "bb8dcc56-4d17-43fd-b24a-cc1c12c43d28",
@@ -116,6 +188,14 @@
                 "id": "0624cf70-55e6-4c7a-9c4f-bbe8bdabb3d9",
                 "resourcePath": "views\\74d21b12-9bd6-40a9-99cf-47bbbd6a1894.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "77890b6c-9ffd-480e-b3e8-dbecaf6ba802",
+            "Value": {
+                "id": "c28bd31c-fb3f-4ce3-944c-6bca06cad9dd",
+                "resourcePath": "sprites\\spr_sheild_out\\spr_sheild_out.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -199,6 +279,14 @@
             }
         },
         {
+            "Key": "cec40813-2cf0-4b9e-85fa-2c18ae4da626",
+            "Value": {
+                "id": "078f18c7-4ef9-4fb1-a5d6-521b2e074be4",
+                "resourcePath": "sprites\\spr_Aishstance\\spr_Aishstance.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d2a8eb73-6ecf-4800-b861-f2e2582e04fa",
             "Value": {
                 "id": "94f1e07a-e577-491d-acbe-0a5cf96b404b",
@@ -207,11 +295,35 @@
             }
         },
         {
+            "Key": "d642f4b1-876b-4d6e-bfe9-0ba508f229df",
+            "Value": {
+                "id": "7219f6b3-5aaa-4e60-804f-0952baec9801",
+                "resourcePath": "sprites\\BlueLaserTiles\\BlueLaserTiles.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dbd1bd13-99ad-40ec-8354-08262134f028",
+            "Value": {
+                "id": "6b89e77f-d272-4173-8f8b-82c78b17e654",
+                "resourcePath": "sprites\\sprite10\\sprite10.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dd3e93fc-69cf-44ba-882d-ab2ca90756b4",
             "Value": {
                 "id": "36373303-128b-43ae-b791-b7970e967d97",
-                "resourcePath": "objects\\object_0\\object_0.yy",
+                "resourcePath": "objects\\obj_Aishwarya\\obj_Aishwarya.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e8b1be45-0946-4de6-947e-63e40888761b",
+            "Value": {
+                "id": "45bc4787-b8f1-4902-8bc2-0083a087a564",
+                "resourcePath": "extensions\\Laser_Level_Tiles\\Laser_Level_Tiles.yy",
+                "resourceType": "GMExtension"
             }
         },
         {
